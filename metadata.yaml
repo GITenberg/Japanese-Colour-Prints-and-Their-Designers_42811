@@ -1,0 +1,30 @@
+_repo: Japanese-Colour-Prints-and-Their-Designers_42811
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gookin, Frederick W.
+    alias: Gookin, Frederick William
+    birthdate: 1853
+    deathdate: 1936
+    gutenberg_agent_id: '41868'
+    url: http://www.gutenberg.org/2009/agents/41868
+description: ''
+gutenberg_issued: '2013-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42811'
+  lccn: '13010857'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NE'
+- !lcsh 'Artists -- Japan'
+- !lcsh 'Color prints, Japanese -- Exhibitions'
+- !lcsh 'Color prints, Japanese'
+title: Japanese Colour-Prints and Their Designers
+url: http://www.gutenberg.org/ebooks/42811
